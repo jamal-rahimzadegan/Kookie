@@ -1,10 +1,8 @@
 # Kookie   <img src= "./src/cookie-icon.svg" height="30px" width="30px"/>
 #### Javascript Class for working with cookies
 * Supports SSR
-* Supports custom server
 
 #### Methods:
-
 
 - `get` &mdash; For getting a cookie by its name
 - `getMultiple` &mdash; For getting Multiple cookies by an array of there names
